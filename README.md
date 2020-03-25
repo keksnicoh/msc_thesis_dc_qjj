@@ -1,6 +1,6 @@
 # Dynamical Control of Quantum Josephson Junction
 
-This repository contains the [PDF of my master thesis][2] as well as a library which was used to perform numerical experiments.
+This repository contains the [PDF of my master thesis][2] as well as a library which was used to perform numerical experiments. Additionally, the slides of the [pre-thesis talk][3] and the [colloqium][4] are provided.
 
 The optical lindblad master equation solver is implemented seperately in the [qoptical][1] project. This library contains specialized hamiltonians.
 
@@ -22,3 +22,5 @@ python3 -m pip install -r notebooks/requirements.txt
 
 [1]: https://github.com/keksnicoh/qoptical
 [2]: https://github.com/keksnicoh/msc_thesis_dc_qjj/blob/master/dynamical-control-of-quantum-josephson-junction.pdf
+[3]: https://github.com/keksnicoh/msc_thesis_dc_qjj/blob/master/pre-thesis-talk.pdf
+[4]: https://github.com/keksnicoh/msc_thesis_dc_qjj/blob/master/colloquium.pdf
