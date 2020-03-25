@@ -4,7 +4,9 @@ This repository contains the [PDF of my master thesis][2] as well as a library w
 
 The optical lindblad master equation solver is implemented seperately in the [qoptical][1] project. This library contains specialized hamiltonians.
 
-Please note that this repository does not contains the fully configured numerical experiments and visualization render in the thesis but the tools which where used. The numerics where perfomed partly on Amazon AWS clusters (Tesla K80) and PHYSNET (University of Hamburg).
+Please note that this repository does not contains the fully configured numerical experiments or the plots which are rendered in the thesis. All experiments used this library. The numerics where perfomed partly on Amazon AWS clusters (Tesla K80) and PHYSNET (University of Hamburg).
+
+Checkout the notebooks for some small configured examples.
 
 ## Setup
 
